@@ -1,1 +1,18 @@
-// Write your styles
+html * {
+font-family: 'Roboto', sans-serif;
+}
+
+.sidebar {
+  background-color: #0ea5e9;
+}
+
+li {
+  list-style: none;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
